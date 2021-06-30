@@ -1,4 +1,5 @@
-### Open Source Contributions
+Open Source Contributions
+---
 
 <p align="center">
     <!-- Astropy -->
